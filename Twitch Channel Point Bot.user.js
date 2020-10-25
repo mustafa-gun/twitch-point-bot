@@ -16,17 +16,6 @@
 // ==/UserScript==
 
 
-/*window.onload = function() {
-  document.getElementsByClassName("tw-textarea--no-resize");
-};
-
-
-waitForKeyElements( 'textarea.tw-textarea--no-resize', function(bWaitOnce) {
-    //var e = evetn.keyCode === 13;
-    var c = document.getElementsByClassName("tw-textarea--no-resize");
-    c[0].value = 'ennyoaSa';
-} );*/
-
 waitForKeyElements( 'button.tw-button--success', function() {
     var x = document.getElementsByClassName("tw-button--success");
     x[0].click();
