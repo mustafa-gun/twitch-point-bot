@@ -9,10 +9,8 @@
 // @match        https://twitch.tv/*
 
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @require      https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
 
-// @grant        none
 // ==/UserScript==
 
 
